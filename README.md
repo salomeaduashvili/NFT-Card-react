@@ -20,7 +20,7 @@ Card.jsx
   - Title
   - Short description
   - Ethereum icon
-  - Etherium description
+  - Ethereum description
   - Clock icon
   - Time description
   - Avatar image
