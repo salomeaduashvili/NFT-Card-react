@@ -33,7 +33,7 @@ App.jsx
 ## 🚀 URL/Live page:
 
 - Deployed on Vercel.
-- Link:
+- Link: https://nft-card-react-eight.vercel.app/
 
 ---
 
